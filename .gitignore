@@ -3,3 +3,7 @@ results/
 *.pt
 *.joblib
 *.csv
+.venv/
+UNI2-h_features/
+kaggle/
+*.h5
